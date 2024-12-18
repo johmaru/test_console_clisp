@@ -1,0 +1,1 @@
+[{"pkgName":"cl-user","text":"(test_console_clisp:main-function)"},{"pkgName":"cl-user","text":"(ql:quickload :test_console_clisp)"},{"pkgName":"cl-user","text":"(push \"./\" asdf:*central-registry*)"}]
