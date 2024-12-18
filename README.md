@@ -17,3 +17,9 @@ git cloneしcdでtest_console_clispに入りcode .する。
 ```(ql:quickload :test_console_clisp)```
 
 ```(test_console_clisp:main-function)```
+
+## プログラムのビルド
+
+test_console_clispのフォルダを開く
+
+```sbcl --load build.lisp```
